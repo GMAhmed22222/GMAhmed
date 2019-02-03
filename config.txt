@@ -1,0 +1,6 @@
+owner=408740963008118784
+prefix=g
+game=GM|Bot
+stayinchannel=true
+songinstatus=false
+token=bhREqcqrYMwwJjSF4fR0bFe61eMVtLjW
